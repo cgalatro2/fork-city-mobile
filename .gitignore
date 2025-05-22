@@ -1,0 +1,13 @@
+node_modules
+*.log
+*.lock
+.DS_Store
+
+# ForkCity
+ForkCity/node_modules
+ForkCity/ios/Pods
+ForkCity/android/.gradle
+ForkCity/android/app/build
+
+# libs
+packages/*/node_modules

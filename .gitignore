@@ -9,5 +9,37 @@ ForkCity/ios/Pods
 ForkCity/android/.gradle
 ForkCity/android/app/build
 
+# CocoaPods artifacts
+ForkCity/ios/Pods/
+ForkCity/ios/Podfile.lock
+ForkCity/ios/build/
+
+# Xcode workspace state
+ForkCity/ios/*.xcworkspace/
+ForkCity/ios/*.xcuserstate
+ForkCity/ios/*.xcuserdata/
+
+# Android build state
+ForkCity/android/build/
+ForkCity/android/.idea/
+
+# Metro + React Native cache
+ForkCity/.turbo/
+ForkCity/.gradle/
+ForkCity/.watchmanconfig
+ForkCity/.vscode/
+ForkCity/.DS_Store
+
+# OS + IDE noise
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment variables
+.env
+.env.*
+
 # libs
 packages/*/node_modules

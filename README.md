@@ -1,4 +1,4 @@
-# mobile-mono AKA ForkCity
+# ForkCity Mobile
 
 A sandbox monorepo for hacking on React Native libraries.
 Fork, patch, and test third-party packages in a local mobile app.

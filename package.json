@@ -5,7 +5,9 @@
   "main": "index.js",
   "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "add:repo": "bash scripts/add-repo.sh",
+    "remove:repo": "bash scripts/remove-repo.sh"
   },
   "keywords": [],
   "author": "",
